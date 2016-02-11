@@ -1,4 +1,4 @@
-# brand guidelines
+# Brand Guidelines
 **FOR JOURNALISTS**
 
 We’ve compiled some basics you might need while covering Plaid or the fintech industry. 
@@ -17,7 +17,7 @@ pr@plaid.com
 **Boilerplate**
 
 Plaid builds the infrastructure and partnerships that securely connect financial institutions, consumers, and businesses. 
-Our comprehensive suite of products and best-in-class developer platform make it easier and safer to use financial data, helping businesses mitigate risk, prevent fraud, reduce friction, and process transactions.
+We make it easier and safer to use financial data, helping businesses mitigate risk, prevent fraud, reduce friction, and process transactions.
 
 
 **Bringing finance into the modern era**
@@ -42,7 +42,7 @@ Together, we are powering innovation in the world of financial services.
 Plaid was founded in 2012 by William Hockey and Zach Perret. 
 They were working on a card-linked application when they were confronted with the lack of ways to securely interface with financial institutions and consumers, and resolved to change the status quo.  
 
-**Who we are**
+**Who we are**  
 Plaid is made by 30+ people passionate about improving finance. 
 The company is headquartered in the Financial District of San Francisco. 
 Our investors include NEA, Spark Capital, Google Ventures, Felicis Ventures, Box Group, and Homebrew Capital.
@@ -51,39 +51,26 @@ Our investors include NEA, Spark Capital, Google Ventures, Felicis Ventures, Box
 
 For approved logos and screenshots, take a look at our [press kit](https://www.dropbox.com/s/9ru8zhf8mzkar7i/Press%20kit.zip?dl=0). If you don’t find what you need, let us know.
 
-                                                                                                                                                         	**Who we are**
-
 **FOR BUSINESSES**
 
 **Advertising, promotional, and sales materials**
 
 Plaid supports its customers in their marketing efforts.
 
- 
-
 We appreciate it when you check with us before using Plaid’s brand materials (such as our name, logos, or screenshots) for commercial use or in referring to Plaid and how we work together in press materials or interviews.
 
-                                                                                                                                                                                      
-
 Email pr@plaid.com with details about your intended use, preferably including mockups or drafts, and we’ll get back to you as quickly as possible.
-
- 
 
 **Proper use of Plaid’s brand materials**
 
 In general, refrain from using Plaid’s name, logos, or screenshots in ways that may be misleading or confusing, or inappropriately suggest our affiliation or endorsement.
 
- 
-
 Please use only our current logo and approved screenshots,[ available here](https://www.dropbox.com/s/9ru8zhf8mzkar7i/Press%20kit.zip?dl=0). Don’t modify, add to, or replace them with images of your own. Consider spacing when depicting our logo. To maximize legibility, the logo should not be depicted at fewer than 50 pixels, and the clear space around the logotype should be equal to the height of the letters.
-
- 
 
 **More questions?**
 
 If you have additional questions not covered here, feel free to [email us](mailto:pr@plaid.com).
 
- 
 ** **
 **The fine print**
 
