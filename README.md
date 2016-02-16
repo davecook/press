@@ -49,7 +49,7 @@ Our investors include NEA, Spark Capital, Google Ventures, Felicis Ventures, Box
 
 **Images**
 
-For approved logos and screenshots, take a look at our [press kit](https://www.dropbox.com/s/9ru8zhf8mzkar7i/Press%20kit.zip?dl=0). If you don’t find what you need, let us know.
+For approved logos and screenshots, take a look at our [press kit](https://github.com/plaid/press/blob/master/Plaid%20Press%20Kit.zip?raw=true). If you don’t find what you need, let us know.
 
 **FOR BUSINESSES**
 
@@ -65,7 +65,7 @@ Email pr@plaid.com with details about your intended use, preferably including mo
 
 In general, refrain from using Plaid’s name, logos, or screenshots in ways that may be misleading or confusing, or inappropriately suggest our affiliation or endorsement.
 
-Please use only our current logo and approved screenshots,[ available here](https://www.dropbox.com/s/9ru8zhf8mzkar7i/Press%20kit.zip?dl=0). Don’t modify, add to, or replace them with images of your own. Consider spacing when depicting our logo. To maximize legibility, the logo should not be depicted at fewer than 50 pixels, and the clear space around the logotype should be equal to the height of the letters.
+Please use only our current logo and approved screenshots,[ available here](https://github.com/plaid/press/blob/master/Plaid%20Press%20Kit.zip?raw=true). Don’t modify, add to, or replace them with images of your own. Consider spacing when depicting our logo. To maximize legibility, the logo should not be depicted at fewer than 50 pixels, and the clear space around the logotype should be equal to the height of the letters.
 
 **More questions?**
 
