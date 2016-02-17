@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/plaid/press/master/Plaid%20Press%20Kit/Logos/Plaid%20Logo%20Color%20Horizontal.png" alt="Plaid's Logo" width="450px"/>
+</p>
+
 # Brand Guidelines
 **FOR JOURNALISTS**
 
